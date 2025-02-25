@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Funix Library",
     "section": "",
-    "text": "Simple Visualisation\n\n\n\n\n\n\n\n\n\n\n\nFeb 25, 2025\n\n\nJ004\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\n\n\nWelcome Post\n\n\n\n\n\nFeb 25, 2025\n\n\nJ004-Vansh Lata, Siddhartha Hrishikesha Voleti and Madhvikaben Vasava\n\n\n\n\n\n\nNo matching items"
+    "text": "Simple Visualisation\n\n\n\n\n\n\n\n\n\n\n\nFeb 25, 2025\n\n\nJ004\n\n\n\n\n\n\n\n\n\n\n\n\nSimple Visualisation\n\n\n\n\n\n\n\n\n\n\n\nFeb 25, 2025\n\n\nJ004\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome\n\n\n\n\n\nWelcome Post\n\n\n\n\n\nFeb 25, 2025\n\n\nJ004-Vansh Lata, Siddhartha Hrishikesha Voleti and Madhvikaben Vasava\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome.html",
@@ -12,6 +12,13 @@
     "title": "Welcome",
     "section": "",
     "text": "Welcome\nHello world, this is my first blog post.\nI can write in markdown\nprint(\"Hello World\")\nI can also write math equations:\n\\[\ny = x^2\n\\]\nI can create lists easily:\n\nOne\nTwo\n\nI can also create numbered lists:\n\nOne\nTwo\n\nOr, create a table:\n\n\n\nName\nAge\n\n\n\n\nAlice\n20\n\n\nBob\n21"
+  },
+  {
+    "objectID": "posts/trial.html",
+    "href": "posts/trial.html",
+    "title": "Simple Visualisation",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt\n%matplotlib inline\n%config InlineBackend.figure_format = 'retina'\n\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y)"
   },
   {
     "objectID": "posts/visualisation.html",
