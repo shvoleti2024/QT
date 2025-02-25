@@ -1,8 +1,8 @@
 ---
 title: "Welcome"
 description: "Welcome Post"
-author: "Nipun Batra"
-date: "2/14/2025"
+author: "J004-Vansh Lata, Siddhartha Hrishikesha Voleti and Madhvikaben Vasava"
+date: "2/25/2025"
 ---
 
 
